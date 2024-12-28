@@ -5,7 +5,6 @@
 <p>Estudiante de Ingeniería de Software en la Universidad Nacional Mayor de San Marcos, con un marcado interés en el análisis de datos y el desarrollo frontend, tanto para aplicaciones móviles como web.</p>
 <h2 align="center">Tecnologías usadas </h2>
 <p align="center">
--
     ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 	![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 	![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
