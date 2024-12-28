@@ -36,3 +36,6 @@
     <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"/>
   </a>
 </p>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
